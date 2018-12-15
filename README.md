@@ -1,3 +1,11 @@
+## Notes for Notable
+
+Pretty standard react/node server setup. After cloning, install packages by typing `yarn` at the command prompt.
+
+Once installed, open a seperate terminal instance, and run `node server.js` Server should be running on localhost:5000
+
+Run yarn start to start the interface. It should load on localhost:3000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
